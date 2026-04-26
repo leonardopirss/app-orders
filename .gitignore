@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Ambiente virtual
+venv/
+
+# Banco de dados local
+*.sqlite3
+*.db
+*.sql
+
+# Arquivos de configuração e credenciais
+.env
+*.env
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Outros
+*.log
+*.bak
+*.swp
